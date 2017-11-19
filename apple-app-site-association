@@ -1,5 +1,10 @@
 {
-    "applinks": {
+    "activitycontinuation": {
+    "apps": [
+      "AH6L76YAQE.RestingCranes.PlaceMaker"
+    ]
+  },
+  "applinks": {
         "apps": [],
         "details": [
             {
