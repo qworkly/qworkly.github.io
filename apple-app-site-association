@@ -1,30 +1,18 @@
 {
-  "activitycontinuation": {
+    "activitycontinuation": {
     "apps": [
       "AH6L76YAQE.RestingCranes.PlaceMaker"
     ]
   },
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "AH6L76YAQE.RestingCranes.PlaceMaker",
-        "paths": [
-          "*"
+        "apps": [],
+        "details": [
+            {
+                "appID": "AH6L76YAQE.RestingCranes.PlaceMaker",
+                "paths": [
+                    "*"
+                ]
+            }
         ]
-      }
-    ],
-    "appIDs": [
-      "AH6L76YAQE.RestingCranes.PlaceMaker"
-    ],
-    "components": [
-      {
-        "/": "*",
-        "?": {
-          "*": "*"
-        },
-        "comment": ""
-      }
-    ]
-  }
+    }
 }
