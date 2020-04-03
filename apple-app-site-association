@@ -10,13 +10,13 @@
             {
                 "appID": "AH6L76YAQE.com.qworkly.placemakercloud",
                 "paths": [
-                    "/v2"
+                    "/v2/*"
                 ]
             },
             {
                 "appID": "AH6L76YAQE.RestingCranes.PlaceMaker",
                 "paths": [
-                    "*"
+                    "*", "NOT /v2/*"
                 ]
             }
         ]
