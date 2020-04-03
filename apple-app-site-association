@@ -8,6 +8,12 @@
         "apps": [],
         "details": [
             {
+                "appID": "AH6L76YAQE.com.qworkly.placemakercloud",
+                "paths": [
+                    "/v2"
+                ]
+            },
+            {
                 "appID": "AH6L76YAQE.RestingCranes.PlaceMaker",
                 "paths": [
                     "*"
