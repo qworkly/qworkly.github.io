@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.qworkly.placemaker",
+    "sha256_cert_fingerprints":
+    ["D5:4C:B3:F3:72:31:58:2F:01:69:9B:18:1A:0A:AB:F0:F0:9B:DF:42:D0:AA:FC:92:D8:AD:F9:35:DE:C0:32:23"]
+  }
+}]
